@@ -7,7 +7,7 @@ const title = "Harry Potter"
 title.length
 title.toUpperCase()
 title.slice(0, 5)
-title.slice(title.lenght - 5, title.length)
+title.slice(title.length - 5, title.length)
 
 // 2 E-maily
 const email = prompt("Zadej e-mail:")
